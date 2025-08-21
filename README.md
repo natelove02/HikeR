@@ -2,6 +2,9 @@
 
 An application for tracking hiking and climbing activities with persistent SQLite database storage.
 
+# Project Map and Board
+(https://github.com/users/natelove02/projects/4)
+
 ## Features
 
 - **Complete CLI Interface** - Menu-driven experience
