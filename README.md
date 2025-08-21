@@ -1,8 +1,8 @@
-# 🏔️ HikeTracker
+# HikeTracker
 
 An application for tracking hiking and climbing activities with persistent SQLite database storage.
 
-## ✨ Features
+## Features
 
 - **Complete CLI Interface** - Menu-driven experience
 - **SQLite Database Integration** - Persistent data storage with parameter binding
@@ -10,12 +10,12 @@ An application for tracking hiking and climbing activities with persistent SQLit
 - **Smart Data Validation** - Input validation and error handling
 - **Duration Formatting** - Automatic conversion to hours/minutes display
 
-## 🚀 Technologies Used
+## Technologies Used
 
 - **C++17** - Modern C++ with professional coding standards
 - **SQLite3** - Lightweight, embedded database
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 hiketracker/
@@ -26,7 +26,7 @@ hiketracker/
 └── README.md            # Project documentation
 ```
 
-## 🛠️ Build Instructions
+## Build Instructions
 
 ### Prerequisites
 - C++ compiler (g++ or clang++)
@@ -48,7 +48,7 @@ g++ -o hiketracker main.cpp database.cpp -lsqlite3
 ./hiketracker
 ```
 
-## 📊 Database Schema
+## Database Schema
 
 ### Hikes Table
 - `id` (INTEGER PRIMARY KEY)
@@ -69,7 +69,7 @@ g++ -o hiketracker main.cpp database.cpp -lsqlite3
 - `date` (TEXT)
 - `notes` (TEXT)
 
-## 🎯 Usage Examples
+## Usage Examples
 
 ```
 === Hike Tracker ===
@@ -90,7 +90,7 @@ Enter hike notes: 14er summit!
 Hike inserted successfully!
 ```
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 - Search and filter functionality
 - Data export (CSV/JSON)
@@ -98,4 +98,4 @@ Hike inserted successfully!
 - Tableau dashboard integration
 - GPS coordinate support
 
-## 👨‍💻 Nate Love
+## Nate Love
