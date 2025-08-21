@@ -3,7 +3,7 @@
 An application for tracking hiking and climbing activities with persistent SQLite database storage.
 
 # Project Map and Board
-(https://github.com/users/natelove02/projects/4)
+[![GitHub Project Board](https://img.shields.io/badge/Project-Board-blue?logo=github)](https://github.com/users/natelove02/projects/4)
 
 ## Features
 
