@@ -12,8 +12,8 @@ An application for tracking hiking and climbing activities with persistent SQLit
 
 ## Technologies Used
 
-- **C++17** - Modern C++ with professional coding standards
-- **SQLite3** - Lightweight, embedded database
+- **C++17** 
+- **SQLite3** 
 
 ## Project Structure
 
